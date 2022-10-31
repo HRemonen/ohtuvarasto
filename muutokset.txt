@@ -1,3 +1,0 @@
-Muutokset voidaan perua git restore <tiedosto> -komennolla
-
-Muutos
