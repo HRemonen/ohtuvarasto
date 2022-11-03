@@ -9,15 +9,6 @@ class Varasto:
         self.saldo = max(alku_saldo, 0.0)
         self.saldo = min(self.saldo, self.tilavuus)
 
-        if "this":
-            pass
-        if "that":
-            pass
-        if "thisthat":
-            pass
-        else: pass
-        
-
     # huom: ominaisuus voidaan myös laskea. Ei tarvita erillistä kenttää viela_tilaa tms.
     def paljonko_mahtuu(self) -> float:
         """Check how much there is space left in the warehouse
